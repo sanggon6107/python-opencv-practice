@@ -12,6 +12,9 @@ poker 이미지에 있는 카드 이미지를 자르고 각도를 변환하여 �
 2. grayscale, otsu algorithm으로 전처리를 거친다.
 3. findContours로 윤곽선을 검출한다.
 4. 카드를 찾은 경우에 해당 이미지를 crop하여 imshow로 출력함과 동시에 imwrite로 파일로 저장한다.
+  
+![카드 이미지](https://github.com/sanggon6107/python-opencv-practice/blob/master/card.png?raw=true)  
+![결과 이미지](https://github.com/sanggon6107/python-opencv-practice/blob/master/card_crop_1.png?raw=true)
 
 ## 19. 동영상에서 사람 눈, 코 인식하기
 mediapipe를 활용하여 동영상에서 사람 눈, 코를 인식하도록 하였다.
