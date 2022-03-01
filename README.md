@@ -26,4 +26,8 @@ poker 이미지에 있는 카드 이미지를 자르고 각도를 변환하여 �
 
 
 ## 19. 동영상에서 사람 눈, 코 인식하기
-mediapipe를 활용하여 동영상에서 사람 눈, 코를 인식하도록 하였다.
+mediapipe를 활용하여 동영상에서 사람 눈, 코를 인식하도록 하였다.  
+
+
+![결과 이미지](https://github.com/sanggon6107/python-opencv-practice/blob/master/project_result.png?raw=true)
+*↑결과 이미지*
