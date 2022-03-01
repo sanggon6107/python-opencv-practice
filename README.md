@@ -21,7 +21,7 @@ poker 이미지에 있는 카드 이미지를 자르고 각도를 변환하여 �
 *↑카드 이미지*
 
 
-![결과 이미지](https://github.com/sanggon6107/python-opencv-practice/blob/master/card_crop_1.png?raw=true)
+![결과 이미지](https://github.com/sanggon6107/python-opencv-practice/blob/master/card_crop_1.png?raw=true)  
 *↑결과 이미지*
 
 
